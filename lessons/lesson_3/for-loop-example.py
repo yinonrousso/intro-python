@@ -1,4 +1,4 @@
-l = ["butt", "crack"]
+l = ["bud", "wiser"]
 #example of getting index of a list in a for loop
 for v in range(len(l)):
     print(l[v])
