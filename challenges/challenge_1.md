@@ -4,7 +4,7 @@ The first argument is a list of size **n** containing the *base* values and the 
 list of size **n** containing the *exponent* values. 
 You should calculate the corresponding exponential values for every pair in these two array's.
 Recall: Exponents have the following form:
-base<sup>exp</sup>
+base<sup>exp</sup>  i.e 2<sup>4</sup>
 
 ## Example Input 1 ## 
 nums = [1,2,-3]
