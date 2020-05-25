@@ -1,10 +1,10 @@
 # Assignment 1
-Your task is to create a function called getPower which will take two parameters.
-The first argument is a list of size *n* containing the base values and the second is a 
-list of size *n* containing the exponent values. 
+Your task is to create a function called **getPower** which will take **2** parameters.
+The first argument is a list of size **n** containing the *base* values and the second is a 
+list of size **n** containing the *exponent* values. 
 You should calculate the corresponding exponential values for every pair in these two array's.
-Recall: Exponents have the followig form:
-base<sup>exp</sup>
+Recall: Exponents have the following form:
+`base<sup>exp</sup>`
 
 ## Example Input 1 ## 
 nums = [1,2,-3]
