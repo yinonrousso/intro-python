@@ -4,9 +4,10 @@ The first argument is a list of size *n* containing the base values and the seco
 list of size *n* containing the exponent values. 
 You should calculate the corresponding exponential values for every pair in these two array's.
 Recall: Exponents have the followig form:
+
 base<sup>exp</sup>
 
-e.g 2<sup>4</sup>
+(e.g 2<sup>4</sup>)
 
 ## Example Input 1 ## 
 nums = [1,2,-3]
